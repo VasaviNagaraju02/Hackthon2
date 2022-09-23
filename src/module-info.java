@@ -1,0 +1,2 @@
+module Hackthon2 {
+}
